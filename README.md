@@ -1,0 +1,2 @@
+# qwerty-taray-c-
+tarayıcı
